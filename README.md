@@ -78,8 +78,8 @@ print("Final bias (b):",b)
 
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+Developed by: 25019001
+RegisterNumber:  Harish.N
 */
 ```
 
